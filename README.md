@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/khwang/DJS.png)](http://travis-ci.org/khwang/DJS)
 ###DJS makes media-sharing sites easy to make!
 
 <a href="https://github.com/khwang/DJS">Check out the github</a>
